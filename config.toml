@@ -1,4 +1,4 @@
-baseURL = 'https://guissalustiano.dev'
+baseURL = 'https://blog.guissalustiano.dev'
 languageCode = 'pt-br'
 title = 'Yet Another Dubious Blog'
 theme = "PaperMod"
