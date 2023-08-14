@@ -382,12 +382,12 @@ Partition type
 Select (default p): p
 Partition number (1-4, default 1): 1
 First sector (2048-124735487, default 2048): <enter>
-Last sector, +/-sectors or +/-size{K,M,G,T,P} (2048-124735487, default 124735487): 64M
+Last sector, +/-sectors or +/-size{K,M,G,T,P} (2048-124735487, default 124735487): <enter>
 
 # change partition to FAT32
 Command (m for help): t
 
-Hex code or alias (type L to list all): c
+Hex code or alias (type L to list all): 0x0c
 Changed type of partition 'Linux' to 'W95 FAT32 (LBA)'.
 
 Command (m for help): w
